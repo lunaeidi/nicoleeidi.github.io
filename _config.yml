@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Nicole Eidi
+title: Web Crawling 
 header-img: img/home-bg.png
 email: nicoleeidi1@gmail.com
-copyright_name: nicoleeidi
+copyright_name: Nicole Eidi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A beginner's guide of tricks for learning new frameworks 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nicoleeidi
-learn_profile: nicoleeidi
-email_username: nicoleeidi1@gmail.com
 
 # Build settings
 markdown: kramdown
