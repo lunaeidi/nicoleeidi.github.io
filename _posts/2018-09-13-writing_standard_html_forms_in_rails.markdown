@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Writing standard HTML forms in Rails "
-date:       2018-09-13 17:01:02 +0000
+date:       2018-09-13 13:01:03 -0400
 permalink:  writing_standard_html_forms_in_rails
 ---
 
